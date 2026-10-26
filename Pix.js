@@ -5,7 +5,7 @@ let valor = Number(prompt("Qual o valor do pix? "));
 let horas = Number(prompt("Que horas? "));
     let limite = 5000;
 
-if (horas >= 20) {
+if (horas >= 20 || horas <= 6){
      limite = 1000
 }
 
