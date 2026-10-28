@@ -1,31 +1,47 @@
-const jack = 7;
-const jeck = 6;
-const jick = 8;
-const jock = 9;
-const juck = 5;
+const aluno1 = "Gabi"
+const media1 = 5;
 
-if jack(>=7) {console.log("Aprovado");
-
-    else console.log("reprovado")
-    
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
 }
-if jeck(>=7) {console.log("Aprovado");
 
-    else console.log("reprovado")
-    
+const aluno2 = "Gabriela"
+const media2 = 6;
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
 }
-if jick(>=7) {console.log("Aprovado");
+const aluno3 = "Gabriel"
+const media3 = ;
 
-    else console.log("reprovado")
-    
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
+}const aluno4 = "Gab"
+const media4 = 6;
+
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
 }
-if jock(>=7) {console.log("Aprovado");
+const aluno5 = "Gab"
+const media5 = 6;
 
-    else console.log("reprovado")
-    
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
 }
-if juck(>=7) {console.log("Aprovado");
+const aluno6 = "Gab"
+const media6 = 6;
 
-    else console.log("reprovado")
-    
+if(media >= 7){
+    console.log("aprovado");
+} else {
+    console.log("reprovado");
 }
